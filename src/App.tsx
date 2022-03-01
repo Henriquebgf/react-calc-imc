@@ -3,7 +3,7 @@ import styles from './App.module.css';
 import poweredImage from './assets/powered.png';
 import {levels, calculateImc, Level} from './helpers/imc';
 import {GridItem} from './components/GridItem';
-import leftArrowimage from './assets/leftArrow.png';
+import leftArrowimage from './assets/leftarrow.png';
 
 
 const App = () => {
