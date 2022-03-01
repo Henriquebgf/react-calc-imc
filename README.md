@@ -8,7 +8,7 @@ Projeto criando uma calculadora de IMC.
 
 ### 🛠️ Tecnologias
 
-As seguintes feramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram usadas na construção do projeto:
 
 -[TypeScript](https://www.typescriptlang.org/)
 
