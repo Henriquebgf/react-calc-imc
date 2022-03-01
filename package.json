@@ -2,7 +2,7 @@
   "name": "react_calc_imc",
   "private": true,
   "version": "0.0.0",
-  "homepage": "github-page/",
+  "homepage": "https://henriquebgf.github.io/react-calc-imc/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
